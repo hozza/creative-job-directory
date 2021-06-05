@@ -1,6 +1,6 @@
 {% for page in site.pages %}
   
-<h3>{{page.title}}</h3>
+<h3><a href="{{page.url}}">{{page.title}}</a></h3>
 <p>{{page.description}}</p>
   
 {% endfor %}
