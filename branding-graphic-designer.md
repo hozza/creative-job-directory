@@ -1,4 +1,5 @@
 ---
+layout: post
 description: Create the right brands for the right people.
 tags:
 - graphic design
